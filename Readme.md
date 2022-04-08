@@ -14,5 +14,5 @@
             console.log(getScore(multiply(num1, num2),4)); 
             </script>
             
-    </body>
+    </body >
 </html>

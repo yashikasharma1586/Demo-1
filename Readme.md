@@ -1,6 +1,7 @@
 <html>
     <head></head>
     <body>
+        <h2> How are you? </h2>
         <script>
             var num1 = 20;
             var num2 = 3;

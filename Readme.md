@@ -9,6 +9,7 @@
             console.log(multiply()); 
             function getScore(multiply, z) 
             {
+            
             return multiply*z
             } 
             console.log(getScore(multiply(num1, num2),4)); 

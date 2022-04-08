@@ -1,0 +1,18 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <script>
+            let reg =/This/; //g means global
+            console.log(reg);
+            let s='This is great code with abc This and abc';
+            //Functions to match expressions
+            //let result3 = reg.match(s);//wrong way
+            let result3 = s.match(reg);//right way
+            let result4 = reg.exec(s);
+            console.log(result4);
+            console.log(result3);
+        </script>
+    </body>
+</html>
